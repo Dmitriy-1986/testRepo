@@ -1,1 +1,1 @@
-https://dmitriy-1986.github.io/blogInfo/.
+https://dmitriy-1986.github.io/testRepo/.
